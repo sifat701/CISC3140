@@ -1,2 +1,2 @@
 # CISC3140
-//The following programs are intended for CISC3140 classes. There will be programs added in the future not intended for sharing but for personnal use.
+//The following program will display a classical program in programming field which displays Hello World.
